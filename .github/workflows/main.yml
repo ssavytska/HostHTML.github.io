@@ -1,3 +1,5 @@
+on:
+    push: 
 <!DOCTYPE html style="background: lightcyan;" ></html> 
 ---
 <h1> Welcome </h1> 
